@@ -1,12 +1,12 @@
-# ML_Final_Gestational_Age
+# Prediction Gestational Age at Time of Birth
 
 SYS 6018: Machine Learning
+
+Final Project
 
 Spring 2018
 
 A. Flower, PhD & D. Brown, PhD 
-
-Title: Prediction Gestational Age at Time of Birth
 
 ## Team Members
 
