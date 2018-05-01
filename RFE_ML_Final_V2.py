@@ -59,7 +59,7 @@ target = pd.to_numeric(target)
 
 
 newset = X.drop(['gestage'], axis=1)
-X_new = SelectKBest(chi2, k=30).fit_transform(newset, target)
+X_new = SelectKBest(f_repression, k=30).fit_transform(newset, target)
 
 
 # In[105]:
