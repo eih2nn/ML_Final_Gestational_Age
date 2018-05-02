@@ -39,10 +39,3 @@ Ryckman, K. K., Berberich, S. L., & Dagle, J. M. (2016). Predicting gestational 
 ScikitLearn (b). (2018). sklearn.feature_selection.RFE. Retreived from http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html.
 
 Smith, G. (2001). Use of time to event analysis to estimate the normal duration of human pregnancy, Human Reproduction, 16(7), pg. 1497–1500. https://doi.org/10.1093/humrep/16.7.1497
-
-
-## Appendix
-
-![Birth Count by Gestational Age at Delivery](Previous Documents/count.png?raw=true)
-
-![Birth Count by Payor Status](Previous Documents/pay.png?raw=true)
