@@ -42,3 +42,7 @@ Smith, G. (2001). Use of time to event analysis to estimate the normal duration 
 
 
 ## Appendix
+
+![Birth Count by Gestational Age at Delivery](count.png?raw=true)
+
+![Birth Count by Payor Status](pay.png?raw=true)
